@@ -5,4 +5,4 @@
 
 ### Briefly, the repo contains:
 
-  • **Function that computes the KL divergence between various discrete distributions.
+  • Function that computes the KL divergence between various discrete distributions.
