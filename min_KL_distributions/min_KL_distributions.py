@@ -43,5 +43,6 @@ def min_KL_distributions(filename):
         index_list.append(index)
     
     return(index_list, min_kl, index)
-    
+
+#Calling the function
 min_KL_distributions("distributions.txt")
